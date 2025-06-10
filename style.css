@@ -1,3 +1,7 @@
+/* Estilização geral do corpo da página */
 body {
-    background-color:#305050 ;
+    /* Define a cor de fundo como um tom de azul escuro */
+    background-color: #305050;
+    /* Define a cor do texto como branco */
+    color: white;
 }
